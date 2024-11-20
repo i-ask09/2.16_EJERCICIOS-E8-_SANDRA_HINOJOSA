@@ -1,2 +1,4 @@
-Contenido para archivo 1
 Línea añadida desde master
+Nueva línea 1 en rama1
+Nueva línea 2 en rama1
+sandra_hinojosa_rama
